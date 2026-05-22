@@ -1,8 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\main.obj",
-".\Objects\delay.obj",
-".\Objects\uart.obj",
-".\Objects\IIC.obj",
-".\Objects\oled.obj" 
-TO ".\Objects\mcu51" 
-PRINT(".\Listings\mcu51.m51") RAMSIZE(256) 
